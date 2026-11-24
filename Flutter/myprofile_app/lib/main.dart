@@ -63,6 +63,36 @@ class ProfileApp extends StatelessWidget {
               ),
             ),
 
+            //body:Column(
+            
+            //children:[
+            
+          //   Container(
+          // width:
+          // padding
+          // margin
+          // boxDecoration
+
+           //   child:Column(
+                      
+                      // Image
+                      // Sizedbox
+                      // Text
+                      // SizedBox
+                      // Text
+                      // Sizedbox
+                      // Button
+                   
+          //)
+          // ),
+             
+            
+            //]
+            
+            
+            
+            //)
+
        ),
 
     );
